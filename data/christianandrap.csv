@@ -1,0 +1,101 @@
+id,artists,acousticness,danceability,duration_ms,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity,key,mode,count,genres,new_genres
+20852,Rylo Rodriguez,0.039433333,0.827,177946.3333,0.623666667,4.25E-06,0.109466667,-7.149333333,0.365,154.35,0.681333333,61,8,1,6,"['alabama rap', 'atl trap']",rap
+16937,Mr. Lil One,0.1663,0.824,263935.6667,0.620833333,0.000124283,0.233566667,-6.579166667,0.116533333,99.67216667,0.609666667,40.83333333,10,1,6,"['chicano rap', 'latin hip hop']",rap
+6669,EGOVERT,0.0718,0.873,100765,0.389,1.32E-05,0.124,-12.658,0.428,105.094,0.625,69,0,0,2,"['meme rap', 'vapor trap']",rap
+13107,King George,0.118,0.788,271067,0.451,0,0.134,-9.313,0.318,89.97,0.302,50,1,1,1,['dirty texas rap'],rap
+6020,Diabolic,0.583,0.686,288667,0.631,0,0.329,-7.458,0.386,86.276,0.65,47,4,0,1,"['conscious hip hop', 'underground rap']",rap
+21891,Skippa Da Flippa,0.0951,0.812,268115,0.648,0,0.11,-4.994,0.0887,130.022,0.246,59,2,1,1,"['trap', 'vapor trap']",rap
+18254,P-Lo,0.1042,0.871,200670,0.405,0.00272,0.114,-7.227,0.162366667,128.668,0.355333333,52.66666667,11,1,3,"['argentine hip hop', 'latin', 'trap argentino', 'trap latino']",rap
+138,8Ball,0.068907143,0.7885,280319.1429,0.661928571,0.000557282,0.234214286,-6.577428571,0.191535714,119.9201429,0.538857143,41.57142857,1,1,14,"['crunk', 'deep southern trap', 'dirty south rap', 'gangster rap', 'memphis hip hop', 'rap', 'southern hip hop', 'trap']",rap
+19146,PnB Rock,0.161084889,0.681933333,198998.0222,0.644133333,7.79E-05,0.127837778,-6.005733333,0.171448889,129.6154,0.486284444,64.51111111,1,1,45,"['melodic rap', 'pop rap', 'rap', 'trap']",rap
+13007,Kevin Rudolf,0.007598667,0.620666667,218649,0.767,0,0.1141,-4.712,0.048966667,114.8556667,0.517833333,51,7,1,6,"['dance pop', 'pop rap']",rap
+21360,Seckond Chaynce,0.482,0.669,225920,0.5785,0,0.153,-7.605,0.03995,95.057,0.407,57.5,7,1,4,"['country rap', 'redneck']",rap
+12564,K/DA,0.0183,0.566,191100,0.769,0,0.108,-4.342,0.0872,170.036,0.385,74,7,1,1,"['deep pop r&b', 'trap', 'trap soul']",rap
+8452,Gangsta,0.0222,0.848,269573,0.822,0,0.642,-2.998,0.322,94.841,0.755,42,8,1,1,"['dirty south rap', 'gangster rap', 'hip pop', 'memphis hip hop', 'southern hip hop', 'trap']",rap
+6321,Don Toliver,0.253900625,0.70275,176382.3438,0.62821875,0.021399074,0.2005375,-6.57796875,0.072421875,135.679,0.4645,71.5,11,0,32,"['rap', 'trap']",rap
+17091,Mýa,0.14368125,0.740625,243506.6875,0.6479375,0.000795579,0.24065,-7.069875,0.11556875,104.8065625,0.5634375,53.75,1,1,16,"['dance pop', 'deep pop r&b', 'hip pop', 'neo soul', 'pop', 'pop rap', 'r&b', 'rap', 'southern hip hop', 'urban contemporary']",rap
+16787,Montell Jordan,0.115627286,0.788928571,257716.1429,0.556857143,0.118347657,0.215164286,-8.409714286,0.078271429,116.3225,0.678714286,46.64285714,0,1,14,"['hip hop', 'hip pop', 'new jack swing', 'pop rap', 'r&b', 'urban contemporary']",rap
+26850,Young Bleed,0.027234,0.7904,271597.2,0.5462,0.01184,0.09696,-7.5614,0.2496,129.2478,0.3668,37.4,2,0,5,"['baton rouge rap', 'deep southern trap', 'dirty south rap', 'gangster rap', 'southern hip hop', 'trap']",rap
+18767,People Under The Stairs,0.170690909,0.825545455,265935.6364,0.727272727,0.001947545,0.170018182,-7.500818182,0.231818182,91.65772727,0.606818182,48.72727273,1,1,11,"['alternative hip hop', 'hip hop', 'jazz rap', 'turntablism']",rap
+1900,BRONSON,0.161,0.735,209600,0.65,0.21,0.109,-5.815,0.0737,122.048,0.122,69,6,0,1,"['alternative hip hop', 'east coast hip hop', 'hip hop', 'nyc rap', 'queens hip hop', 'rap', 'southern hip hop', 'underground hip hop']",rap
+21277,Scar,0.172,0.723,264400,0.784,2.77E-06,0.685,-4.74,0.297,94.216,0.556,44,6,0,1,"['dark trap', 'emo rap', 'scream rap', 'underground hip hop']",rap
+16156,Memphis Bleek,0.067807857,0.730238095,232123.1429,0.697857143,3.06E-05,0.166571429,-6.666285714,0.345095238,102.6669048,0.641190476,41.57142857,1,0,21,"['east coast hip hop', 'gangster rap', 'hardcore hip hop', 'hip hop', 'hip pop', 'pop rap', 'rap', 'southern hip hop']",rap
+21026,Saja,0.02675,0.8465,334825.5,0.884,0.000228915,0.03415,-6.8045,0.0739,124.4675,0.661,44.5,1,1,4,"['christian hip hop', 'christian pop', 'christian trap']",rap
+20253,Rob Base & DJ EZ Rock,0.009616,0.84425,273006.5,0.68775,0.01072705,0.21075,-9.4135,0.18125,112.88575,0.6325,47.5,2,1,8,"['electro', 'harlem hip hop', 'hip house', 'rap']",rap
+1885,BJ The Chicago Kid,0.347275,0.5597,252774.05,0.6382,0.019302655,0.29752,-7.17235,0.20116,107.033,0.56605,55.3,1,0,20,"['alternative r&b', 'chicago rap', 'hip hop', 'indie r&b', 'indie soul', 'neo soul', 'rap', 'southern hip hop', 'underground hip hop']",rap
+7356,Erick Sermon,0.165575,0.75125,216411.75,0.658625,0.001740353,0.4284375,-7.360375,0.2968375,116.339,0.73075,48.25,11,0,8,"['gangster rap', 'hardcore hip hop', 'hip hop', 'rap', 'turntablism']",rap
+14113,Lil Tracy,0.177375,0.65375,154897.5,0.574125,1.51E-06,0.1340125,-7.726625,0.055025,137.919,0.4965,70.5,11,1,16,"['dark trap', 'emo rap', 'melodic rap', 'underground hip hop', 'vapor trap']",rap
+18828,Pete Rock & C.L. Smooth,0.1491375,0.726,294209.875,0.667875,0.00947832,0.192325,-10.2715,0.205375,98.212875,0.639625,42.125,6,1,16,"['alternative hip hop', 'east coast hip hop', 'gangster rap', 'hardcore hip hop', 'hip hop', 'jazz rap', 'rap', 'turntablism']",rap
+14104,Lil Reese,0.001326,0.797333333,274991,0.733666667,0,0.090933333,-4.854,0.064366667,131.3396667,0.363,57.33333333,2,1,3,"['chicago drill', 'chicago rap', 'drill', 'trap']",rap
+21922,Slaughterhouse,0.0999,0.633,319893,0.85,0,0.107,-4.385,0.271,119.929,0.191,49,8,1,1,"['hip hop', 'pop rap', 'rap', 'southern hip hop']",rap
+14890,Luke Christopher,0.0948,0.405,248337,0.846,0,0.0666,-3.57,0.195,82.232,0.602,65,6,1,2,"['indie pop rap', 'pop rap']",rap
+26796,Yellow Claw,0.0081322,0.702,188651.6,0.8122,0.071439,0.11978,-4.5684,0.04718,119.6078,0.4862,60.2,1,1,5,"['bass trap', 'brostep', 'edm', 'electro house', 'electronic trap']",rap
+16081,Meek Mill,0.129721118,0.657779412,227605.7941,0.695117647,1.44E-07,0.281547059,-5.338044118,0.256992647,121.7704265,0.384001471,58.79411765,1,1,68,"['hip hop', 'philly rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",rap
+22684,Su Presencia,0.783,0.52,290577,0.433,0,0.154,-7.595,0.0269,145.984,0.293,59,0,1,2,"['latin christian', 'latin worship', 'rap cristiano', 'rock cristiano']",rap
+1477,Arcangel,0.219888,0.785222222,284566.2667,0.677622222,0.000262913,0.220697778,-5.798666667,0.133193333,109.6361333,0.611711111,59.37777778,6,0,45,"['latin', 'latin hip hop', 'reggaeton', 'trap latino', 'tropical']",rap
+2541,Big Smo,0.190828571,0.705571429,288783.1429,0.896714286,0,0.174028571,-4.356714286,0.167828571,123.2797143,0.68,50.42857143,0,1,7,"['country rap', 'redneck']",rap
+22915,Sy Ari Da Kid,0.268,0.561,188120,0.247,7.37E-06,0.132,-12.877,0.326,125.695,0.289,61,8,0,2,"['deep pop r&b', 'trap', 'trap soul']",rap
+16639,Mista,0.26,0.765,246453,0.387,7.57E-06,0.126,-9.142,0.0283,95.173,0.697,45,0,1,2,"['cali rap', 'hyphy', 'west coast trap']",rap
+5938,Denzel Curry,0.152638889,0.71062963,191939.5185,0.710888889,9.33E-06,0.256248148,-5.648555556,0.195640741,125.2653704,0.574925926,63.66666667,9,1,27,"['dark trap', 'drill', 'hip hop', 'miami hip hop', 'rap', 'trap', 'underground hip hop']",rap
+27213,mysticphonk,0.393,0.463,100260,0.632,0,0.127,-9.577,0.0525,163.71,0.0894,68,7,1,1,"['dark trap', 'emo rap', 'underground hip hop']",rap
+19358,Pumpkinhead,0.583,0.686,288667,0.631,0,0.329,-7.458,0.386,86.276,0.65,47,4,0,1,['underground rap'],rap
+6410,Dos,0.4645,0.574,234100,0.499,2.67E-06,0.196,-8.7135,0.184,120.7685,0.5175,43.5,9,1,2,"['atl hip hop', 'rap', 'trap']",rap
+15687,Marko Penn,0.513,0.825,168632,0.453,0,0.102,-8.17,0.0451,108.991,0.614,58,10,1,2,['cali rap'],rap
+22168,Sosamann,0.0263,0.784,216961,0.44,1.90E-06,0.122,-6.566,0.0401,118.089,0.22,60,10,1,2,"['atl trap', 'houston rap', 'vapor trap']",rap
+4890,Coolio,0.099761538,0.796615385,247211.2308,0.577615385,0.000771335,0.249769231,-9.791846154,0.120830769,97.05830769,0.586846154,50.61538462,7,1,13,"['g funk', 'gangster rap', 'hip hop', 'rap', 'west coast rap']",rap
+22649,Struggle,0.261,0.701,209969,0.717,0,0.166,-5.66,0.0508,87.978,0.529,58,10,1,2,['country rap'],rap
+14090,Lil Jon,0.05406907,0.795245614,250136.2632,0.777701754,0.013518679,0.194701754,-5.403824561,0.202087719,108.1315263,0.586087719,52.26315789,1,0,57,"['atl hip hop', 'crunk', 'dance pop', 'dirty south rap', 'pop rap', 'southern hip hop']",rap
+13253,Kool G Rap,0.130881111,0.733666667,277721.5556,0.752222222,2.87E-07,0.234888889,-8.760444444,0.329444444,118.1657778,0.683333333,38.55555556,7,1,9,"['alternative hip hop', 'boom bap', 'east coast hip hop', 'gangster rap', 'hardcore hip hop', 'hip hop', 'old school hip hop', 'queens hip hop', 'rap']",rap
+14092,Lil Kapow,0.0566,0.726,83131,0.298,1.10E-05,0.132,-13.879,0.695,150.036,0.486,74,1,1,2,['meme rap'],rap
+21469,Shaggy,0.173273793,0.809137931,236474.4138,0.715896552,0.000475717,0.216093103,-7.176103448,0.181717241,130.232931,0.722896552,53.06896552,1,1,29,"['dance pop', 'pop rap', 'reggae fusion']",rap
+27193,lando!,0.282,0.797,173558,0.518,0,0.0954,-12.625,0.281,139.988,0.717,55,7,1,2,"['emo rap', 'underground hip hop', 'vapor trap']",rap
+22357,Stan Whitmire,0.982222222,0.392888889,288933.4444,0.149633333,0.881777778,0.129533333,-18.74344444,0.044,102.3966667,0.1803,45.11111111,10,1,18,"['calming instrumental', 'christian relaxative', 'classify']",christian
+13133,Kings Kaleidoscope,0.479,0.376,218973,0.366,0,0.119,-11.698,0.0385,139.534,0.187,47,5,1,2,"['anthem worship', 'ccm', 'christian uplift', 'indiecoustica', 'roots worship', 'world worship', 'worship']",christian
+25929,Vertical Worship,0.04295,0.399,287105.5,0.6195,0,0.6715,-6.8465,0.03265,104.493,0.2045,61.5,2,1,4,"['anthem worship', 'ccm', 'christian music', 'world worship', 'worship']",christian
+22536,Steve Green,0.78825,0.38125,270512,0.171575,2.18E-06,0.162,-18.048,0.03185,84.7405,0.15725,38.5,7,1,8,"['christian relaxative', 'worship']",christian
+21134,Samuel Hernández,0.663769231,0.473230769,289945.4615,0.531153846,1.15E-06,0.171076923,-6.365384615,0.041261538,125.1219231,0.338769231,51.23076923,2,1,13,"['latin christian', 'latin worship']",christian
+4937,Cory Asbury,0.355366667,0.413666667,284134.3333,0.523666667,0,0.278433333,-7.704333333,0.0355,116.711,0.264666667,63.66666667,6,1,6,"['anthem worship', 'ccm', 'christian music', 'deep ccm', 'world worship', 'worship']",christian
+17123,NEEDTOBREATHE,0.17692307,0.513069767,239387.6512,0.682348837,0.001179024,0.168674419,-5.936348837,0.039176744,113.579186,0.3562,49.34883721,0,1,43,"['acoustic pop', 'ccm', 'christian alternative rock', 'christian indie', 'christian music', 'folk-pop', 'indiecoustica', 'neo mellow', 'pop rock', 'worship']",christian
+12790,Kathy Troccoli,0.3455,0.507,259380,0.3365,0,0.12235,-10.7025,0.0323,67.296,0.208,33.5,11,1,4,['christian music'],christian
+26309,We Came As Romans,0.0107942,0.492,230555,0.867,9.47E-05,0.21472,-5.397,0.08204,124.4432,0.4184,52.2,6,1,10,"['christian rock', 'melodic metalcore', 'metalcore', 'post-screamo', 'screamo', 'trancecore']",christian
+9171,Graham Kendrick,0.782,0.232,279093,0.135,0,0.0898,-17.749,0.031,176.928,0.161,37,0,1,2,"['christian relaxative', 'classic praise', 'uk worship', 'world worship', 'worship']",christian
+1649,As I Lay Dying,0.000101831,0.336181818,251855.8182,0.984727273,0.0410878,0.259727273,-4.205545455,0.1328,149.6029091,0.231963636,48.54545455,8,1,22,"['alternative metal', 'christian metal', 'melodic metalcore', 'metalcore', 'nu metal']",christian
+998,Amy Grant,0.410297308,0.539730769,249673.5385,0.549461538,0.000187662,0.132484615,-8.274153846,0.037034615,121.7096154,0.429530769,36.03846154,6,1,52,"['christian alternative rock', 'christian music']",christian
+17399,New Life,0.245,0.554,222400,0.921,0.542,0.304,-3.224,0.061,144.661,0.429,0,1,1,2,"['anthem worship', 'ccm', 'christian music', 'christian relaxative', 'deep ccm', 'world worship', 'worship']",christian
+5474,Danilo Montero,0.212257143,0.565428571,327880.5714,0.616571429,4.48E-06,0.797428571,-8.361428571,0.036871429,119.9827143,0.445285714,51,11,1,14,"['latin christian', 'latin worship']",christian
+19118,Planetshakers,0.0187,0.51,244333,0.937,0,0.681,-4.979,0.0821,141.975,0.539,56,0,1,2,"['ccm', 'christian alternative rock', 'christian music', 'world worship', 'worship']",christian
+20411,Robin Mark,0.566,0.306,238173,0.431,0,0.107,-6.746,0.0283,130.269,0.256,44,2,1,2,"['christian music', 'classic praise', 'roots worship', 'uk worship', 'worship']",christian
+12063,Jon Foreman,0.761,0.65,296913.5,0.3535,0.0011995,0.0988,-11.4485,0.03125,116.516,0.2315,45.5,11,1,4,"['acoustic pop', 'christian alternative rock', 'christian uplift', 'dreamo', 'indiecoustica', 'roots worship', 'worship']",christian
+5829,Decyfer Down,0.000112,0.478,251200,0.704,0,0.0957,-6.283,0.0276,88.011,0.398,45,7,1,2,"['christian alternative rock', 'christian rock', 'hard alternative', 'post-grunge']",christian
+25432,Tree63,0.0709,0.707,229267,0.592,0,0.147,-7.719,0.0304,120.026,0.484,41,1,1,2,"['african rock', 'ccm', 'christian alternative rock', 'christian music', 'south african rock', 'worship']",christian
+7358,Ericson Alexander Molano,0.551,0.434,392266.5,0.4955,4.40E-06,0.539,-9.859,0.03415,109.9225,0.2269,51.5,2,1,4,"['latin christian', 'latin worship']",christian
+17173,Nancy Amancio,0.361,0.6,257821,0.6305,0,0.1238,-5.1825,0.04985,155.821,0.329,49,3,0,4,"['adoracion', 'latin christian', 'latin worship']",christian
+23278,Tercer Cielo,0.557692308,0.533461538,266529,0.572076923,1.55E-07,0.123723077,-4.889153846,0.031,123.3639231,0.316384615,57.76923077,2,1,13,"['latin christian', 'latin worship', 'mariachi cristiano']",christian
+15900,Matt Redman,0.236353333,0.4485,317546.5,0.6045,0.010292583,0.351466667,-7.679666667,0.037183333,136.622,0.22605,51.66666667,11,1,12,"['anthem worship', 'ccm', 'christian alternative rock', 'christian music', 'roots worship', 'uk worship', 'world worship', 'worship']",christian
+9987,Hillsong Worship,0.143759417,0.3755625,347365.0625,0.558145833,0.000139148,0.325845833,-7.028,0.031883333,136.9669792,0.187166667,50.95833333,0,1,48,"['ccm', 'christian music', 'russian ccm', 'world worship', 'worship']",christian
+10784,Jacobo Ramos,0.162,0.485,268800,0.468,0,0.213,-8.566,0.0295,135.126,0.125,53,9,1,2,"['adoracion', 'latin christian', 'latin worship']",christian
+25131,TobyMac,0.081023778,0.672244444,230128.3333,0.830733333,0.000932043,0.208095556,-4.3888,0.07134,119.3897333,0.654311111,48.22222222,0,1,45,"['ccm', 'christian alternative rock', 'christian hip hop', 'christian music', 'worship']",christian
+16178,MercyMe,0.1233046,0.494125,242589.0833,0.736708333,0.001819013,0.138016667,-5.282083333,0.042904167,122.3919167,0.408233333,47.79166667,9,1,48,"['ccm', 'christian alternative rock', 'christian indie', 'christian music', 'worship']",christian
+11048,Jars Of Clay,0.120285,0.5695,264193.5,0.678166667,1.34E-05,0.142333333,-9.637166667,0.033266667,100.83,0.602833333,37.5,7,1,12,"['ccm', 'christian alternative rock', 'christian music', 'worship']",christian
+17046,MxPx,0.0148905,0.394,183668.6667,0.893166667,0.03400198,0.150683333,-4.190333333,0.097883333,139.2145,0.643166667,42.83333333,9,1,12,"['christian punk', 'emo', 'pop punk', 'punk', 'ska punk', 'skate punk']",christian
+3960,Casting Crowns,0.212321021,0.472489362,276019.8723,0.61206383,1.16E-05,0.164059574,-6.785723404,0.034334043,123.8738936,0.295446809,50.74468085,6,1,47,"['ccm', 'christian alternative rock', 'christian music', 'world worship', 'worship']",christian
+2930,Bob Fitts,0.502,0.455,136707,0.77,0,0.574,-12.376,0.089,182.748,0.471,31,0,0,1,"['christian relaxative', 'classic praise', 'world worship', 'worship']",christian
+1745,Audio Adrenaline,0.030223333,0.683,212129,0.839333333,7.93E-06,0.093133333,-6.033666667,0.054566667,117.3456667,0.719666667,41.33333333,2,1,6,"['ccm', 'christian alternative rock', 'christian music', 'christian rock', 'worship']",christian
+3378,Bryan & Katie Torwalt,0.309766667,0.349,294686.6667,0.523666667,4.26E-05,0.112333333,-8.603333333,0.038933333,141.765,0.1187,54.66666667,2,1,6,"['anthem worship', 'ccm', 'christian music', 'norsk lovsang', 'world worship', 'worship']",christian
+26050,Vino Nuevo,0.6972,0.4146,416861.2,0.4872,0,0.2024,-7.721,0.03176,130.717,0.1904,49.2,0,1,10,"['latin christian', 'latin worship']",christian
+5077,Crystal Lewis,0.27,0.622,364400,0.571,9.77E-06,0.0615,-8.829,0.0347,144.44,0.446,33,9,1,2,['christian music'],christian
+12854,Keith & Kristyn Getty,0.658333333,0.451666667,283297.6667,0.333333333,1.26E-06,0.174333333,-9.766666667,0.029566667,119.1703333,0.306,46.66666667,7,1,6,"['ccm', 'christian music', 'christian relaxative', 'roots worship', 'worship']",christian
+20845,Ryan Stevenson,0.196,0.305,331613,0.726,0,0.464,-6.375,0.061,82.673,0.554,59,9,1,1,"['anthem worship', 'ccm', 'christian alternative rock', 'christian music', 'worship']",christian
+5692,David Meece,0.3,0.429,278293,0.388,0,0.0566,-9.084,0.0315,120.297,0.168,34,4,0,2,"['christian music', 'deep christian rock']",christian
+20794,Russ Taff,0.099,0.628,279964.3333,0.536333333,0.000103333,0.123133333,-12.092,0.033133333,114.3803333,0.488,28.33333333,2,1,6,"['christian music', 'deep christian rock']",christian
+21154,Sandi Patty,0.574166667,0.2885,280722.1667,0.464083333,1.52E-05,0.28935,-8.15425,0.039241667,115.9889167,0.206083333,34.41666667,8,1,12,"['christian music', 'christian relaxative', 'worship']",christian
+17400,New Life Worship,0.00799,0.246,328933,0.51,4.57E-05,0.325,-6.637,0.036,159.915,0.101,51,2,1,1,"['anthem worship', 'ccm', 'christian music', 'christian relaxative', 'deep ccm', 'world worship', 'worship']",christian
+13376,Kutless,0.05868715,0.459,244600.25,0.68475,0,0.10895,-6.347,0.02895,152.5975,0.32325,43.75,6,1,8,"['ccm', 'christian alternative rock', 'christian music', 'christian rock', 'worship']",christian
+24363,The O.C. Supertones,0.0301,0.526,161533,0.968,0.0387,0.133,-2.655,0.0549,97.176,0.667,33,9,1,2,"['christian alternative rock', 'christian music', 'christian punk']",christian
+19065,Pillar,0.0005755,0.591,208707,0.887,0.000939,0.1214,-4.4505,0.06765,106.133,0.575,49.5,7,1,4,"['alternative metal', 'christian alternative rock', 'christian music', 'christian rock', 'post-grunge']",christian
+10105,House of Heroes,0.0786,0.567,195853,0.774,0,0.622,-4.372,0.0325,139.034,0.852,42,11,0,2,"['christian alternative rock', 'christian punk', 'christian rock', 'columbus ohio indie', 'dreamo']",christian
+17233,Natalie Grant,0.103,0.468,280644.3333,0.536,0.006433333,0.101833333,-7.010333333,0.035033333,121.2563333,0.124266667,49.66666667,7,1,6,"['anthem worship', 'ccm', 'christian alternative rock', 'christian music', 'worship']",christian
+1652,Ascend The Hill,0.0443,0.463,403053,0.499,0,0.0874,-6.659,0.0281,128.07,0.0804,45,6,1,2,"['anthem worship', 'christian uplift', 'deep ccm', 'roots worship']",christian
+19751,Ray Boltz,0.677,0.393,342533,0.241,0,0.108,-13.209,0.0346,125.599,0.119,35,7,1,2,['christian music'],christian
+9304,Grupo Inspiracion,0.0798,0.242,570026.5,0.8015,0.00317055,0.5865,-8.0145,0.07075,114.2225,0.4415,38.5,7,1,4,['latin christian'],christian
+10675,Jaci Velasquez,0.560111111,0.423777778,244401.2222,0.478444444,3.68E-06,0.128666667,-7.810444444,0.028477778,112.8108889,0.226777778,37.77777778,5,1,9,['christian music'],christian
