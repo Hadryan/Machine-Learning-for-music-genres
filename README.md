@@ -1,7 +1,5 @@
 # Predictive Modelling for music genres classification
 
-### Problem Description:
-
 ### Objective:
 Build a predictive model that is capable of predicting the music genres based on the given set of features
 
